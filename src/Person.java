@@ -42,6 +42,6 @@ public class Person {
     @Override
     // Formats Person information for printing
     public String toString(){
-        return firstName + lastName + " - #" + phoneNumber;
+        return firstName + " " + lastName + " - #" + phoneNumber;
     }
 }
