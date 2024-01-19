@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faf645a9-abcc-4aa6-a635-59a79d623d48" name="Changes" comment="Worked on Person/Student/Teacher classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="faf645a9-abcc-4aa6-a635-59a79d623d48" name="Changes" comment="Finished all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705445885876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished all">
+      <created>1705647777970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705647777970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files Created" />
     <MESSAGE value="Worked on Person/Student/Teacher classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked on Person/Student/Teacher classes" />
+    <MESSAGE value="Finished all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished all" />
   </component>
 </project>

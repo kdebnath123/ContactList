@@ -164,7 +164,7 @@ public class ContactList {
         while(true){
 
 
-            /*System.out.print("Menu:\n" +
+            System.out.print("Menu:\n" +
                         "1. Add Contact\n" +
                         "2. List All Contacts By First Name\n" +
                         "3. List All Contacts By Last Name\n" +
@@ -174,7 +174,6 @@ public class ContactList {
                         "7. Search By Last Name\n" +
                         "8. Search by Phone Number\n" +
                         "0. Exit\n");
-            */
 
             input = s.nextInt();
             s.nextLine();
